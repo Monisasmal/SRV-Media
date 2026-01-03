@@ -1,4 +1,4 @@
-# Premier Schools Exhibition – Landing Page
+# Premier Schools Exhibition – Landing Page(SRV Media Assignment)
 
 A fully responsive and accessible landing page developed as part of a frontend assignment, based on the provided Figma design.
 
@@ -36,11 +36,28 @@ Tested across:
 ---
 
 ## Preview
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/62fdadda-88e4-4e41-add1-56741878c26d" />
+<img width="1365" height="691" alt="image" src="https://github.com/user-attachments/assets/2c259593-1b1e-4f16-ade0-8cd3ec93ca8e" />
+<img width="1357" height="684" alt="image" src="https://github.com/user-attachments/assets/3d115dde-4dc0-4545-b50b-0275031f7720" />
+<img width="1362" height="724" alt="image" src="https://github.com/user-attachments/assets/92ca12bb-eccc-4fe0-8f27-5154d1b01583" />
+<img width="1354" height="360" alt="image" src="https://github.com/user-attachments/assets/3dafaafd-2b78-4f20-9209-d5cc00019a64" />
+
+----
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
 
 
 
