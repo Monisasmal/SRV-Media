@@ -1,0 +1,30 @@
+.hero__images {
+  height: 420px;
+  overflow: hidden;
+}
+
+.hero__image-track {
+  display: flex;
+  flex-direction: column;
+  animation: slideUp 14s linear infinite;
+}
+
+.hero__image-track img {
+  border-radius: 100px;
+  margin-bottom: 20px;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__image-track {
+    animation: none;
+  }
+}
